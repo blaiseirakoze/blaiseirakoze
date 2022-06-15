@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there 👋 i'm Blaise irakoze
 
+- 🔭 I’m a software engineer at QTSoftware LTD.
+- 📫 You can reach me on my 👉 email: blaiseirakoze50@gmail.com, [linkedin](https://www.linkedin.com/in/blaise-irakoze-2124a812b) and [tweeter](https://twitter.com/blaiseirakoze_)
+- ⚡ Fun fact: i like music and my favorite artist is Drake.
 <!--
 **blaiseirakoze/blaiseirakoze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
