@@ -2,7 +2,7 @@
 
 - 🔭 I’m a software engineer at QTSoftware LTD.
 - 📫 You can reach me on my 👉 email: blaiseirakoze50@gmail.com, [linkedin](https://www.linkedin.com/in/blaise-irakoze-2124a812b) and [twitter](https://twitter.com/blaiseirakoze_)
-- ⚡ Fun fact: i like music and my favorite artist is Drake.
+<!-- - ⚡ Fun fact: i like music and my favorite artist is Drake. -->
 <!--
 **blaiseirakoze/blaiseirakoze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
